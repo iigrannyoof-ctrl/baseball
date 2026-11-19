@@ -1,7 +1,14 @@
+
 ---
 title: "Baseball"
 ---
 
-This is a Quarto website.
+# Exploring Baseball History Through Data
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my Baseball website! This project uses the Lahman database to explore how Major League Baseball has changed over time, focusing on home runs and some of the biggest hitters in history.
+
+One interesting finding is that the total number of home runs doesn't always tell the full story. Seasons shortened by strikes or COVID-19 had fewer home runs simply because fewer games were played. Looking at home runs per game gives a better picture of how hitting has changed, especially during the steroid era and the record-breaking 2019 season.
+
+I also looked at the top 15 career home run leaders, including Barry Bonds, Hank Aaron, and Babe Ruth. By comparing their career totals and individual seasons, we can see how different players contributed to baseball history.
+
+You can explore the graphs and findings by clicking **Home runs** or **Sluggers** in the navigation bar above.
